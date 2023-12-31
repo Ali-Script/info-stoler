@@ -96,4 +96,7 @@ client.getCanvasPrint();
 
 <h3> Before Run Progect</h3>
 <img src="content/images/after.png" width="800px" />
+
+##
+<h3> After Run Progect</h3>
 <img src="content/images/before.png" width="800px" />
