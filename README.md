@@ -3,7 +3,7 @@
 # THIS IS INFO STOLER
 ## Fake Weather App For Info "Stole"
 ## You can Search any City or Country(.avg) to get Current weather
-<details align="center">
+<details>
 <summary><h1> View all stolen information <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" /></h1></summary>
   
 
@@ -118,4 +118,6 @@ client.getCanvasPrint();
 
 </details>
 
+## Technology Used
 
+[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
