@@ -95,8 +95,20 @@ client.getCanvasPrint();
 ##
 
 <h3> Before Run Progect</h3>
+<img src="content/images/before.png" width="800px" />
+
+##
+<h3> After Run Progect (save info in json files)</h3>
 <img src="content/images/after.png" width="800px" />
 
 ##
-<h3> After Run Progect</h3>
-<img src="content/images/before.png" width="800px" />
+<details>
+<summary><h2>How To Run Progect<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" /></h2></summary>
+
+``` js
+1. install php
+2. set php path
+3. php -s localhost:8000
+```
+
+</details>
