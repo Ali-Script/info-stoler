@@ -108,7 +108,12 @@ client.getCanvasPrint();
 ``` js
 1. install php
 2. set php path
-3. php -s localhost:8000
+3. write "php -S localhost:8000" in cmd in progect route
+4. run http://localhost:8000/info/index.php
+5. run index.html
+6. you have all info in /info folder
 ```
 
 </details>
+
+
