@@ -6,7 +6,7 @@
 <details>
 <summary><h1> View all stolen information <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" /></h1></summary>
   
-<div align="center">
+<div align="left">
 
   
 ``` js
@@ -91,6 +91,8 @@ client.getCanvasPrint();
 
 </details>
 
+<div align="center">
+  
 ##
 <h3> Project Preview </h3>
 <img src="content/images/app.png" width="800px" />
@@ -108,7 +110,7 @@ client.getCanvasPrint();
 <details>
 <summary><h2>How To Run Progect<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" /></h2></summary>
   
-<div align="center">
+<div align="left">
 
 ``` js
 1. install php
