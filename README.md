@@ -6,7 +6,7 @@
 ## Fake Weather App For Info "Stole"
 ## You can Search any City or Country(.avg) to get Current weather
 <details>
-<summary><h1> View all stolen information <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" /></h1></summary>
+<summary><h1> View all stolen information<a href="https://github.com/ali-script"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  style="width:70px;height:70px;"></a></h1></summary>
   
 <div align="left">
 
