@@ -8,7 +8,7 @@
 <details>
 <summary><h1> View all stolen information<a href="https://github.com/ali-script"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  style="width:70px;height:70px;"></a></h1></summary>
   
-<div align="center">
+<div align="left">
 
   
 ``` js
