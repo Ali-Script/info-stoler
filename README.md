@@ -8,87 +8,89 @@
 <details>
 <summary><h1> View all stolen information<a href="https://github.com/ali-script"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  style="width:70px;height:70px;"></a></h1></summary>
   
-<div align="left">
+<div align="center">
 
   
 ``` js
-client.getBrowserData();
-client.getFingerprint();
-client.getCustomFingerprint(...);
 
-client.getUserAgent();
-client.getUserAgentLowerCase();
+getBrowserData
+getFingerprint
+getCustomFingerprint
 
-client.getBrowser();
-client.getBrowserVersion();
-client.getBrowserMajorVersion();
-client.isIE();
-client.isChrome();
-client.isFirefox();
-client.isSafari();
-client.isOpera();
+getUserAgent
+getUserAgentLowerCase
 
-client.getEngine();
-client.getEngineVersion();
+getBrowser
+getBrowserVersion
+getBrowserMajorVersion
+isIE
+isChrome
+isFirefox
+isSafari
+isOpera
 
-client.getOS();
-client.getOSVersion();
-client.isWindows();
-client.isMac();
-client.isLinux();
-client.isUbuntu();
-client.isSolaris();
+getEngine
+getEngineVersion
 
-client.getDevice();
-client.getDeviceType();
-client.getDeviceVendor();
+getOS
+getOSVersion
+isWindows
+isMac
+isLinux
+isUbuntu
+isSolaris
 
-client.getCPU();
+getDevice
+getDeviceType
+getDeviceVendor
 
-client.isMobile();
-client.isMobileMajor();
-client.isMobileAndroid();
-client.isMobileOpera();
-client.isMobileWindows();
-client.isMobileBlackBerry();
+getCPU
 
-client.isMobileIOS();
-client.isIphone();
-client.isIpad();
-client.isIpod();
+isMobile
+isMobileMajor
+isMobileAndroid
+isMobileOpera
+isMobileWindows
+isMobileBlackBerry
 
-client.getScreenPrint();
-client.getColorDepth();
-client.getCurrentResolution();
-client.getAvailableResolution();
-client.getDeviceXDPI();
-client.getDeviceYDPI();
+isMobileIOS
+isIphone
+isIpad
+isIpod
 
-client.getPlugins();
-client.isJava();
-client.getJavaVersion();
-client.isFlash();
-client.getFlashVersion(); 
-client.isSilverlight();
-client.getSilverlightVersion();
+getScreenPrint
+getColorDepth
+getCurrentResolution
+getAvailableResolution
+getDeviceXDPI
+getDeviceYDPI
 
-client.getMimeTypes();
-client.isMimeTypes();
+getPlugins
+isJava
+getJavaVersion
+isFlash
+getFlashVersion 
+isSilverlight
+getSilverlightVersion
 
-client.isFont();
-client.getFonts();
+getMimeTypes
+isMimeTypes
 
-client.isLocalStorage();
-client.isSessionStorage();
-client.isCookie();
+isFont
+getFonts
 
-client.getTimeZone();
+isLocalStorage
+isSessionStorage
+isCookie
 
-client.getLanguage();
-client.getSystemLanguage();
+getTimeZone
 
-client.isCanvas();
-client.getCanvasPrint();
+getLanguage
+getSystemLanguage
+
+isCanvas
+getCanvasPrint
+
 ```
 
 </details>
