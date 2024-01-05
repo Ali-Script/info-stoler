@@ -11,7 +11,6 @@
 <div align="left">
 
 
-
 ``` js
 
 getBrowserData
